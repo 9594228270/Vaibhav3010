@@ -1,0 +1,27 @@
+2023-01-02 00:07:45,214  INFO [main] sauceDemo1:32 - Browser is opened
+2023-01-02 00:07:45,346  INFO [main] sauceDemo1:35 - Browser is maximized
+2023-01-02 00:07:50,565  INFO [main] sauceDemo1:39 - url is opened
+2023-01-02 00:07:50,791  INFO [main] sauceDemo1:45 - username is entered
+2023-01-02 00:07:50,969  INFO [main] sauceDemo1:48 - password is entered
+2023-01-02 00:07:51,173  INFO [main] sauceDemo1:51 - Clicked on LoginBtn
+2023-01-02 00:07:51,615  INFO [main] sauceDemo1:61 - Browser is closed
+2023-01-02 00:07:51,616  INFO [main] sauceDemo1:63 - End of Program
+2023-01-02 00:07:52,999  INFO [main] sauceDemo1:32 - Browser is opened
+2023-01-02 00:07:53,123  INFO [main] sauceDemo1:35 - Browser is maximized
+2023-01-02 00:08:00,194  INFO [main] sauceDemo1:39 - url is opened
+2023-01-02 00:08:00,344  INFO [main] sauceDemo1:45 - username is entered
+2023-01-02 00:08:00,503  INFO [main] sauceDemo1:48 - password is entered
+2023-01-02 00:08:00,669  INFO [main] sauceDemo1:51 - Clicked on LoginBtn
+2023-01-02 00:08:01,918  INFO [main] sauceDemo1:26 - All prduct selected
+2023-01-02 00:08:01,960  INFO [main] sauceDemo1:33 - Bag product TC is pass
+2023-01-02 00:08:02,833  INFO [main] sauceDemo1:61 - Browser is closed
+2023-01-02 00:08:02,834  INFO [main] sauceDemo1:63 - End of Program
+2023-01-02 00:08:04,132  INFO [main] sauceDemo1:32 - Browser is opened
+2023-01-02 00:08:04,380  INFO [main] sauceDemo1:35 - Browser is maximized
+2023-01-02 00:08:07,365  INFO [main] sauceDemo1:39 - url is opened
+2023-01-02 00:08:07,502  INFO [main] sauceDemo1:45 - username is entered
+2023-01-02 00:08:07,623  INFO [main] sauceDemo1:48 - password is entered
+2023-01-02 00:08:07,781  INFO [main] sauceDemo1:51 - Clicked on LoginBtn
+2023-01-02 00:08:08,132  INFO [main] sauceDemo1:21 - Clicked on logout btn
+2023-01-02 00:08:08,569  INFO [main] sauceDemo1:61 - Browser is closed
+2023-01-02 00:08:08,569  INFO [main] sauceDemo1:63 - End of Program
